@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FireArmz
+- 👋 Hi, I’m Sanket Wagh a.k.a FireArmz 
 - 👀 I’m interested in coding and I am currently on a journey to learn coding
 - 🌱 I’m currently learning python which is my first language
 - 💞️ I’m looking to collaborate to learn python mysql and data analysis
