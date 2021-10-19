@@ -1,10 +1,7 @@
-- 👋 Hi, I’m Sanket Wagh a.k.a FireArmz 
-- 👀 I’m interested in coding and I am currently on a journey to learn coding
-- 🌱 I’m currently learning python which is my first language
-- 💞️ I’m looking to collaborate to learn python mysql and data analysis
-- 📫 You can reach me at firearmz0147@gmail.com
-
-<!---
-FireArmz/FireArmz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hello Welcome to my Profile.
+My name is Sanket and I enjoy using Python scripts to simplify tasks. 
+I didn't study anything related to computers yet I have a great knowledge and skills just because I had interest in them.
+Some Ideologies I follow:
+-Things that break you ar often the one that make you.
+-Anything can be achieved by just believeing it sincerely. 
+-Maybe Sincerity is not the best policy but it does guarantee a good night sleep.
